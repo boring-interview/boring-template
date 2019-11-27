@@ -1,0 +1,6 @@
+**/.cache/**
+**/dist/**
+**/build/**
+**/bld/**
+
+package.json
